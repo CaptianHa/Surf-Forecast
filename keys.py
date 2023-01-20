@@ -1,6 +1,6 @@
-account_sid = 'ACc2a923c0c93683fe77b2ada348c9da37'
-auth_tocken = 'e50a98a66b4cdd5084c325e139cabd88'
+account_sid = 'AC620e2cf5f825a52e534c458daa013efd'
+auth_tocken = '505951863162f6c3c13bb053a853066a'
 
-twilio_number ='+19706458142'
+twilio_number ='+19569839404'
 target_number = '+18587378507'
-#target_number = '+16717278787'
+# target_number = '+16714829003'
