@@ -15,7 +15,7 @@ column1c = str(df[0].iat[2,0])
 
 column2a = str(df[0].iat[0,1])
 column2b = str(df[0].iat[1,1])
-column2c = str(df[0].iat[2,1])-
+column2c = str(df[0].iat[2,1])
 
 column3a = str(df[0].iat[0,2])
 column3b = str(df[0].iat[1,2])
